@@ -3,7 +3,7 @@
 A delaunay triangulation implementation for unity, ported from:
 as3delaunay: https://github.com/nodename/as3delaunay
 
-Using fortunes algorithm provides triangulation, voronoi, convex hull and minimum spanning tree. Lloyds relaxation algorithm is also implemented.
+Using Fortunes algorithm provides triangulation, voronoi and convex hull. Minimum spanning tree calculated via Kruskals. Lloyds relaxation algorithm is also implemented.
 
 ## Usage
 
